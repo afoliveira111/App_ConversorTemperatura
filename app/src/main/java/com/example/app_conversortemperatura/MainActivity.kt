@@ -13,5 +13,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.buttonConverter.setOnClickListener {
+            val celsius = binding.editCelsius.text.toString().toDouble()
+            val fahrenheit = String.format("%.2f", celsius * 1.8 + 32)
+
+            binding.textResultado.text = "$fahrenheit ºF"
+        }
     }
 }
