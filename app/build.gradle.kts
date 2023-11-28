@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.app_conversortemperatura"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.app_conversortemperatura"
