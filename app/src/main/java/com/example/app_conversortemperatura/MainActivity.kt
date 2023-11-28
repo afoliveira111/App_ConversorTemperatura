@@ -2,6 +2,7 @@ package com.example.app_conversortemperatura
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.example.app_conversortemperatura.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -21,6 +22,7 @@ class MainActivity : AppCompatActivity() {
                 binding.textResultado.text = "$fahrenheit ºF"
             }else{
                 binding.textResultado.text = "Temperatura inválida"
+                Toast.makeText(applicationContext, "Temperatura inválida", Toast.LENGTH_SHORT).show()
             }
         }
     }
