@@ -1,4 +1,7 @@
- ## **Conversor de Temperatura** ##
+ # **Conversor de Temperatura** #
+
+
+## :camera_flash: Screenshots
 
 <table>
   <tr>
@@ -6,8 +9,8 @@
   </tr>
 </table>
 
- # **Conversor de Temperatura**
- **Um aplicativo Android simples para converter temperaturas de Celsius para Fahrenheit.**
+ 
+ ## **Um aplicativo Android simples para converter temperaturas de Celsius para Fahrenheit.** ##
  
 
 ### Tecnologias Utilizadas
