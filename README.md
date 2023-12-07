@@ -1,5 +1,6 @@
  # **Conversor de Temperatura** #
-
+ ## **Um aplicativo Android para converter temperaturas de Celsius para Fahrenheit.** ##
+ 
 
 ## :camera_flash: Screenshots
 
@@ -10,7 +11,7 @@
 </table>
 
  
- ## **Um aplicativo Android simples para converter temperaturas de Celsius para Fahrenheit.** ##
+
  
 
 ### Tecnologias Utilizadas
@@ -35,7 +36,7 @@
   
 - Adicionar novas funcionalidades.
 
-- Adicionar novas moedas.
+
 
 ## Autor
 Antonio Felipe Oliveira (www.linkedin.com/in/id-antonio-felipe)
